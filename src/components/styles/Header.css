@@ -1,0 +1,28 @@
+nav {
+  display: flex;
+  height: 70px;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+
+  /* Made with generator */
+  background: rgb(103, 34, 128);
+  background: linear-gradient(
+    90deg,
+    rgba(103, 34, 128, 1) 0%,
+    rgba(166, 38, 211, 1) 100%
+  );
+}
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-left: 20px;
+}
+.navLogo {
+  height: 40px;
+  width: 40px;
+}
+p {
+  margin-right: 20px;
+}
