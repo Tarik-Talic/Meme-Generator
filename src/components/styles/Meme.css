@@ -27,3 +27,7 @@ button {
     rgba(166, 38, 211, 1) 100%
   );
 }
+img {
+  width: 500px;
+  height: 500px;
+}
